@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a Task Completed App where user is able to create tasks, mark them as done, delete them or drag them to the complete section.
+
 ## Available Scripts
 
 In the project directory, you can run:
